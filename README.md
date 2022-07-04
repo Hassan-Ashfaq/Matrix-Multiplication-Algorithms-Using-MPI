@@ -1,2 +1,2 @@
 # Matrix-Multiplication-Algorithms-Using-MPI
-In this Project, I implemented Matrix Multiplication Algorithum Using MPI. The Matrix Algorithum Split Matrix into Chunks &amp; Preform Multiplication Using MPI. 
+In this Project, I implemented Matrix Multiplication Algorithm Using MPI. The Matrix Algorithm Split Matrix into Chunks & Preform Multiplication Using MPI.
